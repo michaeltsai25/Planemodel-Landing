@@ -1,1 +1,2 @@
-# PlaneModelLanding
+# PlaneModel
+PlaneModel environment for RL

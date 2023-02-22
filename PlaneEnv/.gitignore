@@ -1,0 +1,9 @@
+*.pyc
+.DS_Store
+env/Assets
+env/Graphs
+env/Models
+env/Distances
+env/Param_Study
+*.csv
+.h5f
